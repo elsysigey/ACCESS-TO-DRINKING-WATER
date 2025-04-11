@@ -5,3 +5,5 @@ The analysis will be conducted using Google Sheets to allow for collaborative da
 
 ## ***WHO/UNICEF DATA OVERVIEW***
 The JMP dataset estimates household access to drinking water services between 2000 and 2020 to assess progress towards achieving  the **6 <sup>th</sup> Sustainable Development Goal__SDG__**
+1. Country or area
+The specific country or area the values are estimated for.
