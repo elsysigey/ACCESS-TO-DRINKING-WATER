@@ -14,7 +14,7 @@ The JMP dataset estimates household access to drinking water services between 20
 3. Population: The estimated population size in thousands for the specific country and year.
 4. Urban(%): The estimated percentage share of the population living in urban areas.
 5. Service levels: The estimated national, rural, and urban percentage share of a specific level of access to drinking water services.
-##***AIM OF THE ANALYSIS***
+\##***AIM OF THE ANALYSIS***
 The purpose of this analysis is to:  
 1. Compare the proportion of the national population residing in urban versus rural areas.
 2. Examine access to water at different service levels for urban, rural, and national populations, using measures of central tendency.
